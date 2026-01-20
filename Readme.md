@@ -47,5 +47,16 @@ https://www.python.org/downloads/windows/
 ```bash
 python --version
 
+```
+
 ### 🐧 Linux
+
+1. Установите Python через менеджеров пакетов:
+``` 
+sudo apt get update
+sudo apt-get install python3
+
+```
+
+
 
