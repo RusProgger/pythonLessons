@@ -49,6 +49,11 @@ python --version
 
 ```
 
+3. Запустить проект:
+```
+python main.py
+```
+
 ### 🐧 Linux
 
 1. Установите Python через менеджеров пакетов:
@@ -66,6 +71,11 @@ sudo pacman -S python
 2. Проверить установку:
 ```
 python3 --version
+```
+
+3. Запустить проект:
+```
+python main.py
 ```
 
 
