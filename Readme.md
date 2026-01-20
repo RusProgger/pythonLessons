@@ -53,6 +53,7 @@ python --version
 
 1. Установите Python через менеджеров пакетов:
 
+#### Ubuntu / Debian
 ``` 
 sudo apt get update
 sudo apt-get install python3
