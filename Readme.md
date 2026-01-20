@@ -58,6 +58,16 @@ python --version
 sudo apt get update
 sudo apt-get install python3
 ```
+#### Arch Linux
+```
+sudo pacman -S python
+```
+
+2. Проверить установку:
+```
+python3 --version
+```
+
 
 
 
