@@ -46,3 +46,6 @@ https://www.python.org/downloads/windows/
 2. Проверьте установку:
 ```bash
 python --version
+
+### 🐧 Linux
+
