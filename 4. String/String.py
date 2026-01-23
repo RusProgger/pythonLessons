@@ -44,6 +44,7 @@ name = "I love Python"
 print(name[0])    
 print(name[-1])   
 print(name[1:4])
+print(name[1:3])
 
 # Проверка содержимого строки состоит ли строка из цифр: 
 
