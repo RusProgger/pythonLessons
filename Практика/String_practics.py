@@ -15,3 +15,6 @@ print(word[:5])
 print(word[-3:])
 print(word[1:-1])
 print(word[::-1])
+
+
+# Задание 3 — проверки строки
