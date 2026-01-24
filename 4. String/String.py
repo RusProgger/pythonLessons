@@ -65,6 +65,10 @@ abzac = "hello, my name is alex"
 print(abzac.upper())
 print(abzac.capitalize())
 
+name_s = "text world!"
+
+print(name_s[3:-1])
+
 
 
 
