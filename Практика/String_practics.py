@@ -26,3 +26,8 @@ c = "Hello"
 print(f"Строка {a}, состоит из цифр: {a.isdigit()}")
 print(f"Строка {b}, состоит из букв: {b.isalpha()}")
 print(f"Строка {c}, состоит из букв: {c.isalpha()}")
+
+# Задание 4 — мини-челлендж
+
+text = "hello world"
+print(text.title())
