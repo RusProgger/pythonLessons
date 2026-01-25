@@ -2,4 +2,5 @@
 
 cites = ["Kiev", "Odessa", "Ujgorod", "Poltava"]
 
-print(cites)
+# Проверяем на тип данных
+print(type(cites))
