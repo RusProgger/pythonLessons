@@ -53,4 +53,11 @@ reversed_names = names[::-1]
 
 reversed_names = list(reversed(names))
 
+Все эти методы возвращают None
+
+list.sort()
+list.reverse()
+list.append()
+list.remove()
+
 """
