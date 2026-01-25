@@ -18,3 +18,7 @@ cites.extend(ext)
 
 print(cites)
 
+# Вставляет на i-ый элемент значение x
+cites.insert(-1, ("MMM", "DDD"))
+
+print(f"Елемент: {cites}")
