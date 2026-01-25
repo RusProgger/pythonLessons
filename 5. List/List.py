@@ -22,3 +22,7 @@ print(cites)
 cites.insert(-1, ("MMM", "DDD"))
 
 print(f"Елемент: {cites}")
+
+# удаляет первый найденный элемент по значению
+cites.remove("Kiev")
+print(cites)
