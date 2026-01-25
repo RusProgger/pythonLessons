@@ -61,3 +61,8 @@ list.append()
 list.remove()
 
 """
+
+
+# list.count(x)	Возвращает количество элементов со значением x
+
+print(names.count("Лена"))
