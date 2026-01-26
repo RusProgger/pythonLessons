@@ -3,6 +3,6 @@
 color = []
 
 for i in range(4):
-    color_input = input(f"Введите цвет: {i + 1}")
+    color_input = input(f"Введите цвет {i + 1}: ")
     color.append(color_input)
 print(color)
