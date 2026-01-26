@@ -74,7 +74,7 @@ numbers_int = [1, 5, 10, 17, 88, 3, 12, 8, 3]
 
 # проверка существует ли в списке, 5
 
-if 4 in numbers_int:
+if 5 in numbers_int:
     print("В этом списке 5 существует")
 else:
     print("Нет")
