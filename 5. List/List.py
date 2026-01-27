@@ -83,7 +83,7 @@ else:
 
 number_num = [10, 6, 5, 1, 9, 3, 2, 7, 4, 0]
 
-print(number_num.sort()) # None потому что sort ничего не возвращает
+# print(number_num.sort()) # None потому что sort ничего не возвращает
 
 
 # Сортируем список, но оригинал сохраняем
