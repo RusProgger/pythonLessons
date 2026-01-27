@@ -83,3 +83,6 @@ else:
 
 numbers_int.sort()
 print(numbers_int)
+
+# Сортируем список, но оригинал сохраняем
+
