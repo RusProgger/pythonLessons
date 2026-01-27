@@ -91,6 +91,6 @@ number_num = [10, 6, 5, 1, 9, 3, 2, 7, 4, 0]
 # Сортируем список, но оригинал сохраняем
 print(f"Оригинальный список несортированный: {number_num}")
 number_sort = sorted(number_num)
-print(f"Отсортированный список через sorted: {number_num}")
+print(f"Отсортированный список через sorted: {number_sort}")
 
 
