@@ -78,3 +78,8 @@ if 5 in numbers_int:
     print("В этом списке 5 существует")
 else:
     print("Нет")
+
+# Сортируем список 
+
+numbers_int.sort()
+print(numbers_int)
