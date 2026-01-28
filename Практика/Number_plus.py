@@ -2,3 +2,4 @@
 
 number = int(input())
 number_min = number - 1
+number += 1
