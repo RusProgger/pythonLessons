@@ -4,5 +4,5 @@ number = int(input())
 number_a = number // 100 # Находим сотки
 number_b = (number // 10) % 10 # Находим 10
 number_c = number % 10 # единицы
-
-print()  
+result_number = number_a + number_b + number_c
+print(result_number)  
