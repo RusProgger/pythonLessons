@@ -3,3 +3,4 @@
 number = int(input())
 number_min = number - 1
 number += 1
+print(number_min, number)
