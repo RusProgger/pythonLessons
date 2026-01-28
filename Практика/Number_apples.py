@@ -3,3 +3,4 @@
 apples = int(input())
 apples_del = int(input())
 
+res_apps = apples - apples_del
