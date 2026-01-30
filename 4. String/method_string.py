@@ -30,9 +30,11 @@ print(f"Cколько раз подстрока \"ex\" встречается в
 
 print(name.find("d"))
 
-# Метод strip() - удаляет пробелы 
+# Метод strip() - удаляет пробелы c обеих сторон
 
 fruit = "     banan   "
+
+print(fruit.strip())
 
 
 
