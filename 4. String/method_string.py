@@ -32,9 +32,11 @@ print(name.find("d"))
 
 # Метод strip() - удаляет пробелы c обеих сторон
 
-fruit = "     banan   "
+fruit = "   banan   "
 
 print(fruit.strip())
+
+
 
 
 
