@@ -10,7 +10,7 @@ else:
     for i in range(number_count):
         name = input("Введите имя: ").strip()
 
-        if name.strip():
+        if name:
             print(f"Привет, {name.strip()}")
         else:
             print("Имя не может быть пустым...")
