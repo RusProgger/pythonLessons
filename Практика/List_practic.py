@@ -10,10 +10,11 @@ print("---------------------------")
 print(color)
 
 print("---------------------------")
+
 #print(color[0])
 #print(color[1])
 #print(color[2])
 #print(color[3])
 
 for i in range(4):
-    print(f"Вывод цвета {i}:  {color[i]}")
+    print(f"Вывод цвета {i + 1}:  {color[i]}")
