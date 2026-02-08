@@ -9,7 +9,7 @@ user = []
 # проверка 
 
 for i in range(number):
-    user_input = input(f"Введите имя: ")
+    user_input = input(f"Введите имя: ").strip()
     user.append(user_input)
 
 # Цикл для прохода по списку
