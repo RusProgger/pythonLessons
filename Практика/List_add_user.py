@@ -13,6 +13,6 @@ for i in range(number):
     user.append(user_input)
 
 
-
+# Цикл для прохода по списку
 for i in range(number):
     print(f"Вывод информации о пользователе:  {i + 1}:  {user[i]}")
