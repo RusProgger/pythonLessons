@@ -12,7 +12,11 @@ for i in range(number):
     user_input = input(f"Введите имя: ")
     user.append(user_input)
 
-
 # Цикл для прохода по списку
 for i in range(number):
     print(f"Вывод информации о пользователе:  {i + 1}:  {user[i]}")
+
+
+# Выводим общую статистику о пользователе
+
+print(f"")
