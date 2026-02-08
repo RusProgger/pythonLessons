@@ -15,4 +15,4 @@ for i in range(number):
 
 
 for i in range(number):
-    print(f"Вывод информации:  {i + 1}:  {user[i]}")
+    print(f"Вывод информации о пользователе:  {i + 1}:  {user[i]}")
