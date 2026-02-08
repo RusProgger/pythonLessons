@@ -7,3 +7,12 @@ number = int(input("Введите число запросов: "))
 user = []
 
 # проверка 
+
+for i in range(number):
+    user_input = input(f"Введите имя: ")
+    user.append(user_input)
+
+
+
+for i in range(number):
+    print(f"Вывод информации:  {i + 1}:  {user[i]}")
