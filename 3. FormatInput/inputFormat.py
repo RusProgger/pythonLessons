@@ -27,4 +27,4 @@ text_news = """
 
 # Выводим текст через функцию 
 
-print(text)
+print(text_news)
