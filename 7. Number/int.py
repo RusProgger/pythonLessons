@@ -12,7 +12,13 @@ print(f"Число: {number}")
 print(f"Число: {number2}")
 print(f"Число: {number3}")
 
+# Обработка ошибки 
 
-user_input_number = int(input("Введите число: "))
+try:
+    user_input_number = int(input("Введите число: "))
 
-print(f"Ваше число: {user_input_number}")
+    print(f"Ваше число: {user_input_number}")
+
+except:
+    print("Ошибка! Это не число!")
+
