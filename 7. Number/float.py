@@ -13,3 +13,7 @@ print(f_num1 / f_num2)
 # Округление используем round
 
 print(round(f_num1 / f_num2, 2))
+
+# Второй способ 
+
+print(f"Второй способ округления: {f_num1 / f_num2:.2f}")
