@@ -9,3 +9,7 @@ f_num1 = 10.2
 f_num2 = 2.2
 
 print(f_num1 / f_num2)
+
+# Округление используем round
+
+print(round(f_num1 / f_num2, 2))
