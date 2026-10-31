@@ -32,6 +32,13 @@ cites.pop() # удаляем последний элемент Peter, котор
 print(cites)
 
 
+# Создадим список моделей ИИ 
+
+models = ["Claude code", "GPTChat", "DeepSeek", "Gemini"]
+
+models.reverse()
+
+print(models)
 
 
 # Создадим список имен
