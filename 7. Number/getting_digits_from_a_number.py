@@ -49,3 +49,17 @@ c = num // 10 % 10
 d = num % 10
 
 print(a, b, c, d)  # 4 3 2 1
+
+
+print("\n ------------------ Задача ------------------\n")
+
+cake_number = 123456
+
+alon = cake_number // 100000 % 10
+van_dama = cake_number // 10000 % 10
+stal_one = cake_number // 1000 % 10
+jecki_kachan = cake_number // 100 % 10
+chack_no_rise = cake_number // 10 % 10
+bruslya = cake_number % 10
+
+print(alon, van_dama, stal_one, jecki_kachan, chack_no_rise, bruslya)
