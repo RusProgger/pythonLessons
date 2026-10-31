@@ -63,3 +63,12 @@ chack_no_rise = cake_number // 10 % 10
 bruslya = cake_number % 10
 
 print(alon, van_dama, stal_one, jecki_kachan, chack_no_rise, bruslya)
+
+
+numb = 1601
+
+a = numb // 1000 % 10
+b = numb // 100 % 10
+c = numb // 10 % 10
+d = 
+print(f"А - {a}\nB - {b}\nC - {c}")
