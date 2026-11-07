@@ -24,7 +24,7 @@ print(f"Второй способ округления: {f_num1 / f_num2:.2f}")
 
 try:
     weight = float(input("Введите вес: "))
-    print(f"Ваш вес: {round(weight, 2)}")
+    print(f"Ваш вес: {round(weight, 2)} кг")
 
 except:
     print("Ошибка ввода!")
