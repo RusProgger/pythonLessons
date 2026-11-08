@@ -16,3 +16,16 @@
 
 '''
 
+password_user = input("Введите пароль: ")
+
+if password_user == 'python123':
+    print("Доступ разрешён!")
+
+elif password_user == '':
+    print("Пароль не может быть пустым")
+
+elif len(password_user) < 6:
+    print("Пароль слишком короткий!")
+
+else:
+    print("Неверный пароль!")
