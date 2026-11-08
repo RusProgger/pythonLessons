@@ -16,10 +16,19 @@
 
 number = int(input("Введите число: "))
 
-if number > 0 and (number % 2 == 0):
+if number > 0:
     print("Число положительное!")
-    print("Число четное!")
+    if (number % 2 == 0):
+        print("Число четное!")
+    else:
+        print("Число нечётное!")
+
+elif number == 0:
+    print("Число равно нулю.")
 
 else:
     print("Число отрицательное!")
-    print("Число нечётное!")
+    if (number % 2 == 0):
+        print("Число четное!")
+    else:
+        print("Число нечётное!")
