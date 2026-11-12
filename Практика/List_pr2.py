@@ -7,7 +7,7 @@ users_name = []
 number = int(input("Введите число: "))
 
 for num in range(number):
-    inp = input(f"Введите имя {num + 1}: ")
+    inp = input(f"Введите имя: {num + 1}: ")
     users_name.append(inp)
 
 print(users_name)
