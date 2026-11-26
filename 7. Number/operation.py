@@ -8,7 +8,6 @@ b = 20
 
 print(i + b)
 
-
 # Вычитание
 
 print(i - b)
