@@ -8,8 +8,11 @@ b = 20
 
 print(i + b)
 
-print(i - b)
 
 # Вычитание
 
 print(i - b)
+
+# Умножение 
+
+print(i * b)
