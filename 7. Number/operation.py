@@ -27,4 +27,4 @@ print(b // i)
 
 # Остаток от деления
 
-print(b % i)
+print(i % b)
